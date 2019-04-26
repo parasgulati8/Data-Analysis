@@ -1,4 +1,4 @@
-# Data-Analysis-
+# Data-Analysis
 NYC DOB Permit Issuance Exploratory Analysis
 
 This is an attemp to explore the patterns in permits issued by NYC Department of Buildings. The dataset is available at below link :
